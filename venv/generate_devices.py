@@ -14,7 +14,7 @@ for last_octet_ip in range(1, 20):
     # EACH DEVICE TO BE CREATED IS A DICTIONARY
     device = dict()
 
-    # RANDOM VALUE FOR DEVICE KEY 'name'
+    # RANDOM VALUE FOR DEVICE KEY 'hostname'
     device["hostname"] = (
         choice(["uk-", "us-"])
         + choice(["east-", "west-", "north-", "south-"])
