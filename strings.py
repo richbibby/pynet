@@ -70,7 +70,7 @@ Vlan711
                Processor  969462630 73620298779          0          0
              Route cache          0          0   42456252 11473769102
                    Total  969462630 73620298779   42456252 11473769102
-GigabitEthernet1/0/1remote
+GigabitEthernet1/0/1
           Switching path    Pkts In   Chars In   Pkts Out  Chars Out
                Processor     718194  303795707          0          0
              Route cache          0          0    6885344  718457903
